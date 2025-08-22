@@ -24,7 +24,7 @@ Mi objetivo con este proyecto fue practicar POO en Java, estructuras de datos y 
 **Cómo ejecutar el proyecto**  
 1. Clonar el repositorio:  
 ```bash
-git clone https://github.com/lautarop14/biblioteca-java.git
+git clone https://github.com/lautarop14/biblioteca-java.git```
 
 2. Abrir el proyecto en Eclipse (o cualquier IDE con Java 17).
 
